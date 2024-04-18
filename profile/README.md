@@ -32,3 +32,6 @@ tracked as issues in the individual repositories of this organization, like [her
 If you are interested to work on a certain feature, let us know via the above links.
 When you start to contribute, check the readme.md and contribute.md of the project you will contribute to!
 
+If you want to bring ideas too, welcome! 
+- You can create Github issues if they are relevant to an already existing repository in this organization.
+- We have a public [discussion channel](https://github.com/orgs/transparentdemocracy/discussions) here on Github and a private discussion channel on Slack.
