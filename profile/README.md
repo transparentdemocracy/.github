@@ -27,7 +27,7 @@ This project currectly consists out of three code repositories
 + backend : A backend responsible for serving the data in several forms, making it searchable, navigatable, through a REST api. Written in Java.
 + website: The frontend that visualizes the information obtained from the backend. Written in Angular.
 
-![Overview](./img/overview.jpg)
+![Overview](./profile/img/overview.jpg)
 
 
 ## Convinced of this project's potential?
