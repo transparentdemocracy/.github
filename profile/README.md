@@ -4,20 +4,9 @@ We believe that in a democracy, it should be transparent and easily understandab
 
 This project aims to visualize the voting behavior of the politicians in the Belgian federal parliament (Chamber) in 2024.
 
-## First prototype: textual summary of recent voting behavior
+## Plenary motions
 
-As a first visualization, the fetched voting behavior is summarized as text in https://github.com/transparentdemocracy/voting-data/tree/main/data/output, per plenary session in the Chamber.
-
-## Next : a voting quiz?
-
-One of the goals we are aiming at, is a voting quiz that helps you decide which political party and individual politicians represented best your own preferences.
-
-This as opposed to most voting quizes in the Belgian media currently, except for De Morgen / HLN, and with the added benefit of being able to understand which individual politicians are most aligned with your preferences.
-
-Contrary to voting quizes in the media, we want to keep voting behavior transparent also after the upcoming elections.
-
-On longer term, we want to expand to visualizing voting behavior in the federal senate, the Flemish and other Belgian governments and the European government.
-
+As a first MVP the application will be a web application that allows an overview of the Motions, their content, the votes that were cast on the motion.
 
 ## Developer guide
 
@@ -28,6 +17,18 @@ This project currectly consists out of three code repositories
 + website: The frontend that visualizes the information obtained from the backend. Written in Angular.
 
 ![Overview](./profile/img/overview.jpg)
+
+
+
+## Next : a voting quiz?
+
+One of the goals we are aiming at, is a voting quiz that helps you decide which political party and individual politicians represented best your own preferences.
+
+This as opposed to most voting quizes in the Belgian media currently, except for De Morgen / HLN, and with the added benefit of being able to understand which individual politicians are most aligned with your preferences.
+
+Contrary to voting quizes in the media, we want to keep voting behavior transparent also after the upcoming elections.
+
+On longer term, we want to expand to visualizing voting behavior in the federal senate, the Flemish and other Belgian governments and the European government.
 
 
 ## Convinced of this project's potential?
