@@ -10,15 +10,15 @@ As a first MVP the application will be a web application that allows an overview
 
 ## Developer guide
 
-This project currectly consists out of three code repositories
+This project currectly consists out of two code repositories
 
-+ voting-data: Responsible for parsing the official documents, extracting all the data in JSON format. Written in python.
-+ backend : A backend responsible for serving the data in several forms, making it searchable, navigatable, through a REST api. Written in Java.
++ voting-data
+  + Written in python.
+  + Responsible for scraping and parsing the official documents, convert to a more useful format.
+  + Responsible for sending data to an elasticsearch index.
 + website: The frontend that visualizes the information obtained from the backend. Written in Angular.
 
-![Overview](./profile/img/overview.jpg)
-
-
+![Overview](./profile/img/overview.png)
 
 ## Next : a voting quiz?
 
